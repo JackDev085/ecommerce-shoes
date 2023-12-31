@@ -190,7 +190,7 @@ address{
     height: 8vh;
     align-items: center;
     justify-content: center;
-    background-color: white;
+    background-color: #ffffff;
   }
   .header img {
     display: flex;
