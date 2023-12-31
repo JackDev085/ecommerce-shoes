@@ -162,6 +162,14 @@ background-color: rgba(0,0,0,0.2);
     background-color: darkolivegreen;
     font-size: 100px;
 }
+address{
+  width: 100%;
+  text-align: center;
+  padding: 20px;
+  font-size: 12px;
+  color: black;
+  background-color: rgba(0,0,0,0.4);
+}
 
 @media only screen and (max-width: 600px) {
   * {
@@ -190,7 +198,6 @@ background-color: rgba(0,0,0,0.2);
     height: 40px;
     justify-content: center;
     align-items: center;
-    margin: 0px;
   }
   .header nav ul {
     width: 80vw;
@@ -335,6 +342,5 @@ background-color: rgba(0,0,0,0.2);
   #contatos h3{
     display: flex;
     color: white; 
-    justify-content: end;
   }
 }
